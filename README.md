@@ -28,8 +28,8 @@ I'm a passionate software developer with a keen interest in open-source projects
 
 ## 📫 Connect with Me
 
-- LinkedIn: [Pablo](https://www.linkedin.com/in/pma1999/)
-- Twitter: [@pma1999](https://twitter.com/pma1999)
+- LinkedIn: [Pablo](https://www.linkedin.com/in/pablomiar/)
+- Twitter: [@pablomiar](https://twitter.com/pablomiar)
 
 ---
 
